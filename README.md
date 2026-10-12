@@ -1,0 +1,1 @@
+W pliku main.pdf znajduje się szczegółowy opis projektu.
